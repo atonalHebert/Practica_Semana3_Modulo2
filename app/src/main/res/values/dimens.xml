@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="pantalla_pequena" >30sp</dimen>
+    <dimen name="pantalla_pequena" >31sp</dimen>
     <dimen name="pantalla_pequena_2" >20sp</dimen>
 
 </resources>
